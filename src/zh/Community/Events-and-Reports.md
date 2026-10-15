@@ -45,9 +45,9 @@
     
   - （英语）从时序数据到专业化数据管理, 演讲人: 张洪胤
 
-- 2026.07.09，瑞士日内瓦，AI for Good 2026
+- 2026.07.09，瑞士日内瓦，[AI for Good 2026](https://www.timecho.com/archives/1784099605663)
   
-  - （英语）[Open Source Promotes the Global AI Innovation](https://www.timecho-global.com/archives/1784275354231), 演讲人：王建民
+  - （英语）[Open Source Promotes the Global AI Innovation](img/Open Source Promotes Global AI Innovation-20260709-V7(1).pdf), 演讲人：王建民
 
 
 ## 2025 年活动
